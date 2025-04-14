@@ -8,7 +8,7 @@ This package, `github.com/xanzy/go-gitlab`, has been moved to
 [`gitlab.com/gitlab-org/api/client-go`](https://gitlab.com/gitlab-org/api/client-go).
 
 The project will continue to be a primarily community-maintained project,
-more about it [here](https://gitlab.com/gitlab-org/client.go/-/blob/main/README.md#maintenance).
+more about it [here](https://gitlab.com/gitlab-org/api/client-go/-/blob/main/README.md#maintenance).
 
 **References**:
 
